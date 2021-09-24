@@ -1,3 +1,0 @@
-hi Anant Tyagi your github here 
-this is to inform that the jenkins has been connected successfully with your github
-Thanks 
